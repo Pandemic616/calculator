@@ -63,4 +63,5 @@ def main():
     print(operator(operand=string[1], calculator=calculator))
 
 
-main()
+if __name__ == '__main__':
+    main()
