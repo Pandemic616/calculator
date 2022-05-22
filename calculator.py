@@ -1,6 +1,5 @@
 from logger import Logger
 
-
 class Calculator:
     """Класс производит вычесление из двух аргументов"""
 
